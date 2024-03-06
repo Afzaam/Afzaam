@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afzaam
-- 👀 I’m interested in programming and other related fields.
-- 🌱 I’m currently a student majoring in Bsc Information Technology with cybersecurity concentration.
+- 👀 I’m interested in programming and cybersecurity.
+- 🌱 I’m currently a student majoring in Bsc Information Technology.
 - 💞️ On a conquest to quench my curiosity and broaden my knowledge.
 - 🤖 Tech otakus save the world.
 
